@@ -4,4 +4,4 @@
 ### - Edgar Chan
 ### - Andrei Chan
 
-__testing git workflow__
+__testing git workflow on remote repo__
