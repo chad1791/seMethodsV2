@@ -13,4 +13,4 @@ __testing git workflow on remote repo__
 
 [![Releases](https://img.shields.io/github/release/chad1791/seMethodsV2/all.svg?style=flat-square)](https://github.com/chad1791/seMethodsV2/releases)
 
-![GitHub Workflow Status (develop)](https://img.shields.io/github/workflow/status/chad1791/seMethodsV2/<action name taken from main.yml>/develop?style=flat-square)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/<OWNER>/<REPO>/<WORKFLOW_FILE>?branch=<BRANCH>&style=flat-square)
